@@ -1,0 +1,12 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "creation serveur",
+  "type" : "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "traore",
+  "license": "ISC"
+}
