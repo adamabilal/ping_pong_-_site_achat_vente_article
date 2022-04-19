@@ -2,7 +2,6 @@
 
 - L3 Info Groupe 3
 - Adama TRAORÉ
-- Narimane TAHIR
 
 
 ## Introduction au projet
